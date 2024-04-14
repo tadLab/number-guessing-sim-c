@@ -8,11 +8,11 @@ How to Play
 Clone the repository to your local machine.
 bash
 
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/tadLab/number-guessing-sim-c.git
 Navigate to the project directory.
 bash
 
-cd number-guessing-game
+cd number-guessing-sim-c
 Compile the source code.
 bash
 
@@ -37,5 +37,3 @@ Contributions are welcome! If you find any bugs or want to improve the game, fee
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Make sure to replace your-username in the clone command with your actual GitHub username and adjust any paths or details based on your project structure. You can also add more sections or information as needed, such as gameplay screenshots, build instructions for different platforms, or acknowledgments.
