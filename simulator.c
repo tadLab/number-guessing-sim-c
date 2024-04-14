@@ -36,6 +36,13 @@ int main() {
                 if (randomNumber != usersNumber) {
                     printf("THAT IS NOT THE NUMBER. ");
                     tries--;
+                    
+                    if(randomNumber < usersNumber){
+                        printf("THE NUMBER IS LOWER.\n");
+                    } else if(randomNumber > usersNumber){
+                        printf("THE NUMBER IS HIGHER.\n");
+                    }
+
                     printf("You have %d tries left.\n", tries);
                 }
             }
